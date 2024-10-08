@@ -1,6 +1,6 @@
 # Reto 1.6: Listas
 Nombre y Apellidos: Pablo Rodríguez Crespo
-URL del repositorio de gitlab:
+URL del repositorio de gitlab: https://github.com/Pablosax9/ODAW2_RETO.1.6-Listas.git
 ## Instrucciones:
 A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
 Ejemplo final:
